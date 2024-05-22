@@ -9,6 +9,8 @@
 
 ![Gustavo Paçó GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavopaco123&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopaco123&langs_count=8)
+
 ## Tecnologias que eu utilizo
 
 <div style = "display: inline_block"><br>
